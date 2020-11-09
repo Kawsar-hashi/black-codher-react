@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&family=Xanh+Mono:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+h3 { 
+font-family: 'Space Grotesk', sans-serif;  
+  text-align: center;
+  padding: 10px 30px 10px 15px;
+  color: #a9afaf; 
+  -webkit-text-stroke-width: 0.2px;
+  -webkit-text-stroke-color: #000000;
+}
+
+
+.about {
+font-family: 'Dosis', sans-serif;
+  font-size: 23px; 
+  line-height: 1.5em;
+  padding: 30px 40px 200px 15px;
+  text-align: center;
+ 
+}
+h1{
+    color:blue;
+}
+
+.container{
+
+    padding: 10px 30px 10px 15px;
+    color:black
+
+}
